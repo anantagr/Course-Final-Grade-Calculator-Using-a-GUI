@@ -3,8 +3,7 @@
 
  Date:            06 April 20
 
-Description:      Assignment 2
-                    The intent of this application is to provide a tool to instructors that they can use to calculate
+Description:        The intent of this application is to provide a tool to instructors that they can use to calculate
                     the final mark of a course as both a percentage and letter grade. When run, the application will
                     display a window form with data entry fields for quiz marks, a midterm mark, and a final examination
                     mark. The final grade is calculated using the weightings of 20% for the average of the quizzes, 30% 
