@@ -1,0 +1,10 @@
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.exe.config
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.exe
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.pdb
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.csprojAssemblyReference.cache
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment_2___A_Course_Final_Grade_Calculator_Using_a_GUI.Form1.resources
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment_2___A_Course_Final_Grade_Calculator_Using_a_GUI.Properties.Resources.resources
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.csproj.GenerateResource.cache
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.csproj.CoreCompileInputs.cache
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.exe
+D:\Assignment 2 – A Course Final Grade Calculator Using a GUI\Assignment 2 – A Course Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 – A Course Final Grade Calculator Using a GUI.pdb
